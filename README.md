@@ -1,2 +1,2 @@
 # sql-data-cleaning
-SQL data cleaning scripts
+In this repository you can find SQL scripts used for data cleaning.
